@@ -1,4 +1,4 @@
-# Enhancing-NADE-with-Low-discrepancy
+# Enhancing-NADE-for-Image-Reconstruction
 
 First, you would need to create a folder called dataset.
 
